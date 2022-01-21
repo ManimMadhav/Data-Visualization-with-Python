@@ -3,4 +3,4 @@ using this dataset, from Kaggle: https://www.kaggle.com/dipam7/student-grade-pre
 task1: doing a comparative analysis between how the number of absences affects the final grade of the student in a semester final exam.
 
 task2: doing a categorical analysis on whether the students who have a certain number of failures had internet access or not. 
-doing this for noOfFailures = 0,1,2 and 3.
+doing this for number of failures = 0,1,2 and 3.
