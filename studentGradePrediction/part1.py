@@ -1,8 +1,10 @@
+#comparative visualization
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-#absences vs final grade (comparative)
+#absences vs final grade 
 
 dataset = pd.read_csv(r"student-mat.csv")
 absences = dataset['absences']
